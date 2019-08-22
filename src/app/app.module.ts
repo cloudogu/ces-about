@@ -3,9 +3,9 @@ import { NgModule } from '@angular/core';
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 
 import { AppComponent } from './app.component';
-import { AboutComponent }   from './about.component';
-import { ImprintComponent }      from './imprint.component';
-import { PrivacyPolicyComponent }  from './privacyPolicy.component';
+import { AboutComponent } from './about.component';
+import { ImprintComponent } from './imprint.component';
+import { PrivacyPolicyComponent } from './privacyPolicy.component';
 import { TermsAndConditionsComponent } from './termsAndConditions.component';
 import { LicensesComponent } from './licenses.component';
 

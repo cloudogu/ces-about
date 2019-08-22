@@ -1,10 +1,10 @@
-import { NgModule }             from '@angular/core';
+import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 
-import { AboutComponent }   from './about.component';
-import { ImprintComponent }      from './imprint.component';
-import { PrivacyPolicyComponent }  from './privacyPolicy.component';
+import { AboutComponent } from './about.component';
+import { ImprintComponent } from './imprint.component';
+import { PrivacyPolicyComponent } from './privacyPolicy.component';
 import { TermsAndConditionsComponent } from './termsAndConditions.component';
 import { LicensesComponent } from './licenses.component';
 
@@ -18,7 +18,7 @@ const routes: Routes = [
 ];
 
 @NgModule({
-  imports: [ RouterModule.forRoot(routes), NgbModule], //forRoot(routes, {useHash: true})
+  imports: [ RouterModule.forRoot(routes), NgbModule], // forRoot(routes, {useHash: true})
   exports: [ RouterModule ]
 })
 export class AppRoutingModule {}

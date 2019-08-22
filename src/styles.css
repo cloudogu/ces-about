@@ -50,3 +50,19 @@ a {
 a:hover, a:focus {
   text-decoration: none;
 }
+
+.button {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #fff;
+  border: 2px solid #23A3DD;
+  padding: 1rem;
+  background-color: #23a3dd;
+  transition: background-color 300ms ease-out;
+
+	&:hover {
+	  background-color: #1e7caa;
+	  border-color: #1e7caa;
+	}
+
+}
