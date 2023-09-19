@@ -6,7 +6,7 @@ export class License {
 export const LICENSES: License[] = [
     {
         name: "Cloudogu EcoSystem",
-        description: `<p>Copyright (c) 2017 Cloudogu GmbH</p>
+        description: `<p>Copyright (c) 2023 Cloudogu GmbH</p>
 
             <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
               documentation files (the "Software"), to deal in the Software without restriction, including without limitation
