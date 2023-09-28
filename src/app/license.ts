@@ -177,7 +177,7 @@ export const LICENSES: License[] = [
               Version 2, June 1991
             </p>
 
-            <pre>Copyright (C) 1989, 1991 Free Software Foundation, Inc.  
+            <pre>Copyright (C) 1989, 1991 Free Software Foundation, Inc.
                         51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA
 
                         Everyone is permitted to copy and distribute verbatim copies
@@ -468,7 +468,7 @@ export const LICENSES: License[] = [
         name:"Jenkins",
         description:`<p>Copyright (C) 2011, contributors of the Jenkins project</p>
         <p>Copyright (C) 2023 Cloudogu GmbH</p>
-        
+
 
             <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
               documentation files (the "Software"), to deal in the Software without restriction, including without limitation
@@ -482,7 +482,6 @@ export const LICENSES: License[] = [
             OR OTHER DEALINGS IN THE SOFTWARE.`
     },
     {
-       {
     name: "SonarQube",
     description: `<p>"GNU Lesser General Public License",</p>
 
@@ -492,41 +491,41 @@ export const LICENSES: License[] = [
             <p>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
             MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public License for more details.</p>
             <p>You should have received a copy of the GNU Lesser General Public License along with this program.  If not, see <a href="http://www.gnu.org/licenses/" target="_blank">GNU Licenses</a>.</p>
-    
+
             <p>SonarQube is distributed under the GNU Lesser GPL License, Version 3 ; you may not use this application except in compliance with the License.
             You may obtain a copy of the License at http://www.gnu.org/licenses/lgpl.txt. Unless required by applicable law or agreed to in writing,
             software distributed under the License is distributed on an “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
             See the License for the specific language governing permissions and limitations under the License.</p>
-    
+
             <p>GNU LESSER GENERAL PUBLIC LICENSE
             Version 3, 29 June 2007 Copyright © 2007 Free Software Foundation, Inc. <a href="http://fsf.org/" target="_blank">Free Software Foundation</a></p>
-    
+
             <p>Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.</p>
-    
+
             <p>This version of the GNU Lesser General Public License incorporates the terms and conditions of version 3 of the GNU General Public License,
             supplemented by the additional permissions listed below.</p>
-    
+
             <p>0. Additional Definitions.
             As used herein, “this License” refers to version 3 of the GNU Lesser General Public License, and the “GNU GPL”
             refers to version 3 of the GNU General Public License.</p>
-    
+
             <p>“The Library” refers to a covered work governed by this License, other than an Application or a Combined Work as defined below.
             An “Application” is any work that makes use of an interface provided by the Library, but which is not otherwise based on the Library.
             Defining a subclass of a class defined by the Library is deemed a mode of using an interface provided by the Library.</p>
-    
+
             <p>A “Combined Work” is a work produced by combining or linking an Application with the Library. The particular version of the Library
             with which the Combined Work was made is also called the “Linked Version”.</p>
-    
+
             <p>The “Minimal Corresponding Source” for a Combined Work means the Corresponding Source for the Combined Work, excluding any source code
             for portions of the Combined Work that, considered in isolation, are based on the Application, and not on the Linked Version.</p>
-    
+
             <p>The “Corresponding Application Code” for a Combined Work means the object code and/or source code for the Application,
             including any data and utility programs needed for reproducing the Combined Work from the Application, but excluding
             the System Libraries of the Combined Work.</p>
-    
+
             <p>1. Exception to Section 3 of the GNU GPL.
             You may convey a covered work under sections 3 and 4 of this License without being bound by section 3 of the GNU GPL.</p>
-    
+
             <p>2. Conveying Modified Versions.
             If you modify a copy of the Library, and, in your modifications, a facility refers to a function or data to be supplied
             by an Application that uses the facility (other than as an argument passed when the facility is invoked), then you may
@@ -534,7 +533,7 @@ export const LICENSES: License[] = [
             a) under this License, provided that you make a good faith effort to ensure that, in the event an Application does not supply
             the function or data, the facility still operates, and performs whatever part of its purpose remains meaningful, or
             b) under the GNU GPL, with none of the additional permissions of this License applicable to that copy.</p>
-    
+
             <p>3. Object Code Incorporating Material from Library Header Files.
             The object code form of an Application may incorporate material from a header file that is part of the Library.
             You may convey such object code under terms of your choice, provided that, if the incorporated material is not limited
@@ -542,7 +541,7 @@ export const LICENSES: License[] = [
             (ten or fewer lines in length), you do both of the following:
             a) Give prominent notice with each copy of the object code that the Library is used in it and that the Library
             and its use are covered by this License. b) Accompany the object code with a copy of the GNU GPL and this license document.</p>
-    
+
             <p>4. Combined Works.
             You may convey a Combined Work under terms of your choice that, taken together, effectively do not restrict modification
             of the portions of the Library contained in the Combined Work and reverse engineering for debugging such modifications,
@@ -564,7 +563,7 @@ export const LICENSES: License[] = [
             (If you use option 4d0, the Installation Information must accompany the Minimal Corresponding Source and Corresponding Application Code.
             If you use option 4d1, you must provide the Installation Information in the manner specified by section 6
             of the GNU GPL for conveying Corresponding Source.)</p>
-    
+
             <p>5. Combined Libraries.
             You may place library facilities that are a work based on the Library side by side in a single library together with other
             library facilities that are not Applications and are not covered by this License, and convey such a combined library under
@@ -572,20 +571,20 @@ export const LICENSES: License[] = [
             a) Accompany the combined library with a copy of the same work based on the Library, uncombined with any other library facilities,
             conveyed under the terms of this License. b) Give prominent notice with the combined library that part of it is a work based
             on the Library, and explaining where to find the accompanying uncombined form of the same work.</p>
-    
+
             <p>6. Revised Versions of the GNU Lesser General Public License.
             The Free Software Foundation may publish revised and/or new versions of the GNU Lesser General Public License from time to time.
             Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.</p>
-    
+
             <p>Each version is given a distinguishing version number. If the Library as you received it specifies that a certain numbered version
             of the GNU Lesser General Public License “or any later version” applies to it, you have the option of following the terms and
             conditions either of that published version or of any later version published by the Free Software Foundation.
             If the Library as you received it does not specify a version number of the GNU Lesser General Public License, you may choose
             any version of the GNU Lesser General Public License ever published by the Free Software Foundation.</p>
-    
+
             <p>If the Library as you received it specifies that a proxy can decide whether future versions of the GNU Lesser General Public License
             shall apply, that proxy’s public statement of acceptance of any version is permanent authorization for you to choose that version for the Library.</p>
-    
+
             SonarQube Plugins: <a href="https://www.sonarplugins.com/" target="_blank">https://www.sonarplugins.com/</a>`
     },
     {
@@ -598,7 +597,7 @@ export const LICENSES: License[] = [
               (C) 1996-2023, The PostgreSQL Global Development Group<br><br> Portions Copyright (C) 1994, The Regents of
               the University of California<br><br> Permission to use, copy, modify, and distribute this software and its
               documentation for any purpose, without fee, and without a written agreement is hereby granted, provided that
-              the above copyright notice and this paragraph and the following two paragraphs appear in all copies.<br><br>              
+              the above copyright notice and this paragraph and the following two paragraphs appear in all copies.<br><br>
               IN NO EVENT SHALL THE UNIVERSITY OF CALIFORNIA BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL,
               OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, ARISING OUT OF THE USE OF THIS SOFTWARE AND ITS DOCUMENTATION,
               EVEN IF THE UNIVERSITY OF CALIFORNIA HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.<br><br> THE UNIVERSITY
@@ -612,7 +611,7 @@ export const LICENSES: License[] = [
         description:`<p>GNU GENERAL PUBLIC LICENSE</p>
               <p> Version 3, 29 June </p>
               <p> Copyright (C) 2023 Cloudogu GmbH </p>
-							<p>This program is free software: you can redistribute it and/or modify  it under the terms of the GNU General Public License 
+							<p>This program is free software: you can redistribute it and/or modify  it under the terms of the GNU General Public License
 							as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.</p>
 							<p>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty
 							of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.</p>
@@ -621,7 +620,7 @@ export const LICENSES: License[] = [
               <p>Version 3, 29 June 2007 Copyright © 2007 Free Software Foundation, Inc.  <a href="http://fsf.org/" target="_blank">FSF-Website</a></p>
               <p>51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA</p>
               <p>Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.</p>
-              
+
               <p>Preamble</p>
               <p>The GNU General Public License is a free, copyleft license for software and other kinds of works.</p>
               <p>The licenses for most software and other practical works are designed to take away your freedom to share and change the works.
@@ -649,7 +648,7 @@ export const LICENSES: License[] = [
 							of software on general-purpose computers, but in those that do, we wish to avoid the special danger that patents applied to a free program
 							could make it effectively proprietary. To prevent this, the GPL assures that patents cannot be used to render the program non-free.</p>
               <p>The precise terms and conditions for copying, distribution and modification follow.</p>
-                
+
               <p>TERMS AND CONDITIONS</p>
               <p>0. Definitions.</p>
               <p>“This License” refers to version 3 of the GNU General Public License.</p>
@@ -668,7 +667,7 @@ export const LICENSES: License[] = [
               that (1) displays an appropriate copyright notice, and (2) tells the user that there is no warranty for the work (except to the extent that
               warranties are provided), that licensees may convey the work under this License, and how to view a copy of this License. If the interface
               presents a list of user commands or options, such as a menu, a prominent item in the list meets this criterion.</p>
-                
+
               <p>1. Source Code.</p>
               <p>The “source code” for a work means the preferred form of the work for making modifications to it. “Object code” means any non-source form of a work.</p>
               <p>A “Standard Interface” means an interface that either is an official standard defined by a recognized standards body, or, in the case of interfaces
@@ -686,7 +685,7 @@ export const LICENSES: License[] = [
               such as by intimate data communication or control flow between those subprograms and other parts of the work.</p>
               <p>The Corresponding Source need not include anything that users can regenerate automatically from other parts of the Corresponding Source.
               The Corresponding Source for a work in source code form is that same work.</p>
-                
+
               <p>2. Basic Permissions.</p>
               <p>All rights granted under this License are granted for the term of copyright on the Program, and are irrevocable provided the stated conditions are met.
               This License explicitly affirms your unlimited permission to run the unmodified Program. The output from running a covered work is covered
@@ -698,21 +697,21 @@ export const LICENSES: License[] = [
               you do not control copyright. Those thus making or running the covered works for you must do so exclusively on your behalf, under
               your direction and control, on terms that prohibit them from making any copies of your copyrighted material outside their relationship with you.</p>
               <p>Conveying under any other circumstances is permitted solely under the conditions stated below. Sublicensing is not allowed; section 10 makes it unnecessary.</p>
-                
+
               <p>3. Protecting Users' Legal Rights From Anti-Circumvention Law.</p>
               <p>No covered work shall be deemed part of an effective technological measure under any applicable law fulfilling obligations under article
               11 of the WIPO copyright treaty adopted on 20 December 1996, or similar laws prohibiting or restricting circumvention of such measures.</p>
               <p>When you convey a covered work, you waive any legal power to forbid circumvention of technological measures to the extent such circumvention
               is effected by exercising rights under this License with respect to the covered work, and you disclaim any intention to limit operation or
               modification of the work as a means of enforcing, against the work's users, your or third parties' legal rights to forbid circumvention of technological measures.</p>
-                
+
               <p>4. Conveying Verbatim Copies.</p>
               <p>You may convey verbatim copies of the Program's source code as you receive it, in any medium, provided that you conspicuously and
               appropriately publish on each copy an appropriate copyright notice; keep intact all notices stating that this License and
               any non-permissive terms added in accord with section 7 apply to the code; keep intact all notices of the absence
               of any warranty; and give all recipients a copy of this License along with the Program.</p>
               <p>You may charge any price or no price for each copy that you convey, and you may offer support or warranty protection for a fee.</p>
-                
+
               <p>5. Conveying Modified Source Versions.
               <p>You may convey a work based on the Program, or the modifications to produce it from the Program, in the form of source code
               under the terms of section 4, provided that you also meet all of these conditions:</p>
@@ -730,7 +729,7 @@ export const LICENSES: License[] = [
               distribution medium, is called an “aggregate” if the compilation and its resulting copyright are not used to
               limit the access or legal rights of the compilation's users beyond what the individual works permit.
               Inclusion of a covered work in an aggregate does not cause this License to apply to the other parts of the aggregate.</p>
-              
+
               <p>6. Conveying Non-Source Forms.</p>
               <p>You may convey a covered work in object code form under the terms of sections 4 and 5, provided that you also convey
               the machine-readable Corresponding Source under the terms of this License, in one of these ways:</p>
@@ -779,7 +778,7 @@ export const LICENSES: License[] = [
               <p>Corresponding Source conveyed, and Installation Information provided, in accord with this section must be in a format
               that is publicly documented (and with an implementation available to the public in source code form), and must require no
               special password or key for unpacking, reading or copying.</p>
-                
+
               <p>7. Additional Terms.</p>
               <p>“Additional permissions” are terms that supplement the terms of this License by making exceptions from one or more of its conditions.
               Additional permissions that are applicable to the entire Program shall be treated as though they were included in this License,
@@ -812,7 +811,7 @@ export const LICENSES: License[] = [
               a statement of the additional terms that apply to those files, or a notice indicating where to find the applicable terms.</p>
               <p>Additional terms, permissive or non-permissive, may be stated in the form of a separately written license,
               or stated as exceptions; the above requirements apply either way.</p>
-                
+
               <p>8. Termination.</p>
               <p>You may not propagate or modify a covered work except as expressly provided under this License.
               Any attempt otherwise to propagate or modify it is void, and will automatically terminate your
@@ -825,7 +824,7 @@ export const LICENSES: License[] = [
               the copyright holder notifies you of the violation by some reasonable means, this is the first time
               you have received notice of violation of this License (for any work) from that copyright holder,
               and you cure the violation prior to 30 days after your receipt of the notice.</p>
-              <p>Termination of your rights under this section does not terminate the licenses of parties who 
+              <p>Termination of your rights under this section does not terminate the licenses of parties who
               have received copies or rights from you under this License. If your rights have been terminated
               and not permanently reinstated, you do not qualify to receive new licenses for the same material under section 10.</p>
 
@@ -836,7 +835,7 @@ export const LICENSES: License[] = [
               you permission to propagate or modify any covered work. These actions infringe copyright if you do
               not accept this License. Therefore, by modifying or propagating a covered work, you indicate your
               acceptance of this License to do so.</p>
-                
+
               <p>10. Automatic Licensing of Downstream Recipients.</p>
               <p>Each time you convey a covered work, the recipient automatically receives a license from the
               original licensors, to run, modify and propagate that work, subject to this License.
@@ -851,7 +850,7 @@ export const LICENSES: License[] = [
               For example, you may not impose a license fee, royalty, or other charge for exercise of rights
               granted under this License, and you may not initiate litigation (including a cross-claim or counterclaim in a lawsuit)
               alleging that any patent claim is infringed by making, using, selling, offering for sale, or importing the Program or any portion of it.</p>
-              
+
               <p>11. Patents.</p>
               <p>A “contributor” is a copyright holder who authorizes use under this License of the Program or a work on
               which the Program is based. The work thus licensed is called the contributor's “contributor version”.</p>
@@ -895,20 +894,20 @@ export const LICENSES: License[] = [
               contain the covered work, unless you entered into that arrangement, or that patent license was granted, prior to 28 March 2007.</p>
               <p>Nothing in this License shall be construed as excluding or limiting any implied
               license or other defenses to infringement that may otherwise be available to you under applicable patent law.</p>
-                
+
               <p>12. No Surrender of Others' Freedom.</p>
               <p>If conditions are imposed on you (whether by court order, agreement or otherwise) that contradict the conditions of this License,
               they do not excuse you from the conditions of this License. If you cannot convey a covered work so as to satisfy simultaneously your
               obligations under this License and any other pertinent obligations, then as a consequence you may not convey it at all. For example,
               if you agree to terms that obligate you to collect a royalty for further conveying from those to whom you convey the Program,
               the only way you could satisfy both those terms and this License would be to refrain entirely from conveying the Program.</p>
-              
+
               <p>13. Use with the GNU Affero General Public License.</p>
               Notwithstanding any other provision of this License, you have permission to link or combine any covered work with a work licensed
               under version 3 of the GNU Affero General Public License into a single combined work, and to convey the resulting work. The terms of
               this License will continue to apply to the part which is the covered work, but the special requirements of the GNU Affero General Public License,
               section 13, concerning interaction through a network will apply to the combination as such.</p>
-              
+
               <p>14. Revised Versions of this License.</p>
               <p>The Free Software Foundation may publish revised and/or new versions of the GNU General Public License from time to time.
               Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.</p>
@@ -920,28 +919,28 @@ export const LICENSES: License[] = [
               that proxy's public statement of acceptance of a version permanently authorizes you to choose that version for the Program.</p>
               <p>Later license versions may give you additional or different permissions. However, no additional obligations are imposed on
               any author or copyright holder as a result of your choosing to follow a later version.</p>
-              
+
               <p>15. Disclaimer of Warranty.</p>
               <p>THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE
               COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
               INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK
               AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL
               NECESSARY SERVICING, REPAIR OR CORRECTION.</p>
-              
+
               <p>16. Limitation of Liability.</p>
               <p>IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY
               WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL,
               INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO
               LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO
               OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</p>
-              
+
               <p>17. Interpretation of Sections 15 and 16.</p>
               <p>If the disclaimer of warranty and limitation of liability provided above cannot be given local legal effect according to their terms,
               reviewing courts shall apply local law that most closely approximates an absolute waiver of all civil liability in connection with the Program,
               unless a warranty or assumption of liability accompanies a copy of the Program in return for a fee.</p>
               <p>END OF TERMS AND CONDITIONS</p>
               PlantUML Plugins: <a href="https://plantuml.com/de/sitemap-plugins" target="_blank">PlantUML Plugins</a>`
- 
+
     },
     {
         name:"Postfix",
@@ -952,7 +951,7 @@ export const LICENSES: License[] = [
             <p>Copyright © 2023 Cloudogu GmbH</p>
             <p>THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE PUBLIC LICENSE ("AGREEMENT").
             ANY USE, REPRODUCTION OR DISTRIBUTION OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.</p>
-						
+
             <p>1. DEFINITIONS </p>
             <p>"Contribution" means:</p>
             <p>a) in the case of the initial Contributor, the initial content Distributed under this Agreement, and </p>
@@ -980,7 +979,7 @@ export const LICENSES: License[] = [
             documentation source, and configuration files. </p>
             <p>"Secondary License" means either the GNU General Public License, Version 2.0, or any later versions of that license,
             including any exceptions or additional permissions as identified by the initial Contributor. </p>
-            
+
             <p>2. GRANT OF RIGHTS </p>
             <p> a) Subject to the terms of this Agreement, each Contributor hereby grants Recipient a non-exclusive, worldwide,
             royalty-free copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform,
@@ -998,124 +997,123 @@ export const LICENSES: License[] = [
             and licenses granted hereunder, each Recipient hereby assumes sole responsibility to secure any other intellectual
             property rights needed, if any. For example, if a third party patent license is required to allow Recipient to
             Distribute the Program, it is Recipient's responsibility to acquire that license before distributing the Program. </p>
-            <p>d) Each Contributor represents that to its knowledge it has sufficient copyright rights in its Contribution, 
+            <p>d) Each Contributor represents that to its knowledge it has sufficient copyright rights in its Contribution,
             if any, to grant the copyright license set forth in this Agreement. </p>
-            <p>e) Notwithstanding the terms of any Secondary License, no Contributor makes additional grants to any Recipient 
-            (other than those set forth in this Agreement) as a result of such Recipient's receipt of the Program under the 
+            <p>e) Notwithstanding the terms of any Secondary License, no Contributor makes additional grants to any Recipient
+            (other than those set forth in this Agreement) as a result of such Recipient's receipt of the Program under the
             terms of a Secondary License (if permitted under the terms of Section 3). </p>
-            
+
             <p>3. REQUIREMENTS </p>
             <p>3.1 If a Contributor Distributes the Program in any form, then:</p>
-            <p> a) the Program must also be made available as Source Code, in accordance with section 3.2, and the Contributor must 
-            accompany the Program with a statement that the Source Code for the Program is available under this Agreement, and 
+            <p> a) the Program must also be made available as Source Code, in accordance with section 3.2, and the Contributor must
+            accompany the Program with a statement that the Source Code for the Program is available under this Agreement, and
             informs Recipients how to obtain it in a reasonable manner on or through a medium customarily used for software exchange; and </p>
             <p> b) the Contributor may Distribute the Program under a license different than this Agreement, provided that such license: </p>
-            <p> i) effectively disclaims on behalf of all other Contributors all warranties and conditions, express and implied, including 
+            <p> i) effectively disclaims on behalf of all other Contributors all warranties and conditions, express and implied, including
             warranties or conditions of title and non-infringement, and implied warranties or conditions of merchantability and fitness for a particular purpose; </p>
-            <p> ii) effectively excludes on behalf of all other Contributors all liability for damages, including direct, indirect, 
+            <p> ii) effectively excludes on behalf of all other Contributors all liability for damages, including direct, indirect,
             special, incidental and consequential damages, such as lost profits;</p>
             <p> iii) does not attempt to limit or alter the recipients' rights in the Source Code under section 3.2; and </p>
             <p> iv) requires any subsequent distribution of the Program by any party to be under a license that satisfies the requirements of this section 3. </p>
             <p>3.2 When the Program is Distributed as Source Code: </p>
-            <p>a) it must be made available under this Agreement, or if the Program (i) is combined with other material in a separate file or 
-            files made available under a Secondary License, and (ii) the initial Contributor attached to the Source Code the notice described in 
+            <p>a) it must be made available under this Agreement, or if the Program (i) is combined with other material in a separate file or
+            files made available under a Secondary License, and (ii) the initial Contributor attached to the Source Code the notice described in
             Exhibit A of this Agreement, then the Program may be made available under the terms of such Secondary Licenses, and </p>
             <p>b) a copy of this Agreement must be included with each copy of the Program. </p>
-            <p>3.3 Contributors may not remove or alter any copyright, patent, trademark, attribution notices, disclaimers of warranty, 
-            or limitations of liability ("notices") contained within the Program from any copy of the Program which they Distribute, 
+            <p>3.3 Contributors may not remove or alter any copyright, patent, trademark, attribution notices, disclaimers of warranty,
+            or limitations of liability ("notices") contained within the Program from any copy of the Program which they Distribute,
             provided that Contributors may add their own appropriate notices.</p>
-            
+
             <p>4. COMMERCIAL DISTRIBUTION </p>
-            <p>Commercial distributors of software may accept certain responsibilities with respect to end users, business partners and the like. 
-            While this license is intended to facilitate the commercial use of the Program, the Contributor who includes the Program in a commercial 
-            product offering should do so in a manner which does not create potential liability for other Contributors. Therefore, if a Contributor 
-            includes the Program in a commercial product offering, such Contributor ("Commercial Contributor") hereby agrees to defend and indemnify 
-            every other Contributor ("Indemnified Contributor") against any losses, damages and costs (collectively "Losses") arising from claims, 
-            lawsuits and other legal actions brought by a third party against the Indemnified Contributor to the extent caused by the acts or omissions 
-            of such Commercial Contributor in connection with its distribution of the Program in a commercial product offering. The obligations in this 
-            section do not apply to any claims or Losses relating to any actual or alleged intellectual property infringement. In order to qualify, an 
-            Indemnified Contributor must: a) promptly notify the Commercial Contributor in writing of such claim, and b) allow the Commercial Contributor 
-            to control, and cooperate with the Commercial Contributor in, the defense and any related settlement negotiations. The Indemnified Contributor 
+            <p>Commercial distributors of software may accept certain responsibilities with respect to end users, business partners and the like.
+            While this license is intended to facilitate the commercial use of the Program, the Contributor who includes the Program in a commercial
+            product offering should do so in a manner which does not create potential liability for other Contributors. Therefore, if a Contributor
+            includes the Program in a commercial product offering, such Contributor ("Commercial Contributor") hereby agrees to defend and indemnify
+            every other Contributor ("Indemnified Contributor") against any losses, damages and costs (collectively "Losses") arising from claims,
+            lawsuits and other legal actions brought by a third party against the Indemnified Contributor to the extent caused by the acts or omissions
+            of such Commercial Contributor in connection with its distribution of the Program in a commercial product offering. The obligations in this
+            section do not apply to any claims or Losses relating to any actual or alleged intellectual property infringement. In order to qualify, an
+            Indemnified Contributor must: a) promptly notify the Commercial Contributor in writing of such claim, and b) allow the Commercial Contributor
+            to control, and cooperate with the Commercial Contributor in, the defense and any related settlement negotiations. The Indemnified Contributor
             may participate in any such claim at its own expense.</p>
-            <p>For example, a Contributor might include the Program in a commercial product offering, Product X. That Contributor is then a Commercial Contributor. 
-            If that Commercial Contributor then makes performance claims, or offers warranties related to Product X, those performance claims and warranties 
-            are such Commercial Contributor's responsibility alone. Under this section, the Commercial Contributor would have to defend claims against the 
-            other Contributors related to those performance claims and warranties, and if a court requires any other Contributor to pay any damages as a 
+            <p>For example, a Contributor might include the Program in a commercial product offering, Product X. That Contributor is then a Commercial Contributor.
+            If that Commercial Contributor then makes performance claims, or offers warranties related to Product X, those performance claims and warranties
+            are such Commercial Contributor's responsibility alone. Under this section, the Commercial Contributor would have to defend claims against the
+            other Contributors related to those performance claims and warranties, and if a court requires any other Contributor to pay any damages as a
             result, the Commercial Contributor must pay those damages.</p>
-            
+
             <p>5. NO WARRANTY </p>
-            <p>EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, AND TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE PROGRAM IS PROVIDED ON AN "AS IS" BASIS, 
-            WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, 
-            NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Each Recipient is solely responsible for determining the appropriateness 
-            of using and distributing the Program and assumes all risks associated with its exercise of rights under this Agreement, including but not limited 
+            <p>EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, AND TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE PROGRAM IS PROVIDED ON AN "AS IS" BASIS,
+            WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE,
+            NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Each Recipient is solely responsible for determining the appropriateness
+            of using and distributing the Program and assumes all risks associated with its exercise of rights under this Agreement, including but not limited
             to the risks and costs of program errors, compliance with applicable laws, damage to or loss of data, programs or equipment, and unavailability or interruption of operations.</p>
-            
+
             <p>6. DISCLAIMER OF LIABILITY </p>
-            <p>EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, AND TO THE EXTENT PERMITTED BY APPLICABLE LAW, NEITHER RECIPIENT NOR ANY CONTRIBUTORS SHALL HAVE ANY 
-            LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER 
-            CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF 
+            <p>EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, AND TO THE EXTENT PERMITTED BY APPLICABLE LAW, NEITHER RECIPIENT NOR ANY CONTRIBUTORS SHALL HAVE ANY
+            LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER
+            CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF
             THE USE OR DISTRIBUTION OF THE PROGRAM OR THE EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. </p>
-            
+
             <p>7. GENERAL </p>
-            <p>If any provision of this Agreement is invalid or unenforceable under applicable law, it shall not affect the validity or enforceability 
-            of the remainder of the terms of this Agreement, and without further action by the parties hereto, such provision shall be reformed to the 
+            <p>If any provision of this Agreement is invalid or unenforceable under applicable law, it shall not affect the validity or enforceability
+            of the remainder of the terms of this Agreement, and without further action by the parties hereto, such provision shall be reformed to the
             minimum extent necessary to make such provision valid and enforceable.</p>
-            <p>If Recipient institutes patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Program 
-            itself (excluding combinations of the Program with other software or hardware) infringes such Recipient's patent(s), then such Recipient's 
+            <p>If Recipient institutes patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Program
+            itself (excluding combinations of the Program with other software or hardware) infringes such Recipient's patent(s), then such Recipient's
             rights granted under Section 2(b) shall terminate as of the date such litigation is filed. </p>
-            <p>All Recipient's rights under this Agreement shall terminate if it fails to comply with any of the material terms or conditions of this 
-            Agreement and does not cure such failure in a reasonable period of time after becoming aware of such noncompliance. If all Recipient's rights 
-            under this Agreement terminate, Recipient agrees to cease use and distribution of the Program as soon as reasonably practicable. However, 
+            <p>All Recipient's rights under this Agreement shall terminate if it fails to comply with any of the material terms or conditions of this
+            Agreement and does not cure such failure in a reasonable period of time after becoming aware of such noncompliance. If all Recipient's rights
+            under this Agreement terminate, Recipient agrees to cease use and distribution of the Program as soon as reasonably practicable. However,
             Recipient's obligations under this Agreement and any licenses granted by Recipient relating to the Program shall continue and survive.</p>
-            <p>Everyone is permitted to copy and distribute copies of this Agreement, but in order to avoid inconsistency the Agreement is copyrighted 
-            and may only be modified in the following manner. The Agreement Steward reserves the right to publish new versions (including revisions) of 
-            this Agreement from time to time. No one other than the Agreement Steward has the right to modify this Agreement. The Eclipse Foundation is 
-            the initial Agreement Steward. The Eclipse Foundation may assign the responsibility to serve as the Agreement Steward to a suitable separate 
-            entity. Each new version of the Agreement will be given a distinguishing version number. The Program (including Contributions) may 
-            always be Distributed subject to the version of the Agreement under which it was received. In addition, after a new version of the Agreement 
+            <p>Everyone is permitted to copy and distribute copies of this Agreement, but in order to avoid inconsistency the Agreement is copyrighted
+            and may only be modified in the following manner. The Agreement Steward reserves the right to publish new versions (including revisions) of
+            this Agreement from time to time. No one other than the Agreement Steward has the right to modify this Agreement. The Eclipse Foundation is
+            the initial Agreement Steward. The Eclipse Foundation may assign the responsibility to serve as the Agreement Steward to a suitable separate
+            entity. Each new version of the Agreement will be given a distinguishing version number. The Program (including Contributions) may
+            always be Distributed subject to the version of the Agreement under which it was received. In addition, after a new version of the Agreement
             is published, Contributor may elect to Distribute the Program (including its Contributions) under the new version.</p>
-            <p>Except as expressly stated in Sections 2(a) and 2(b) above, Recipient receives no rights or licenses to the intellectual property of any 
-            Contributor under this Agreement, whether expressly, by implication, estoppel or otherwise. All rights in the Program not expressly granted 
-            under this Agreement are reserved. Nothing in this Agreement is intended to be enforceable by any entity that is not a Contributor or Recipient. 
+            <p>Except as expressly stated in Sections 2(a) and 2(b) above, Recipient receives no rights or licenses to the intellectual property of any
+            Contributor under this Agreement, whether expressly, by implication, estoppel or otherwise. All rights in the Program not expressly granted
+            under this Agreement are reserved. Nothing in this Agreement is intended to be enforceable by any entity that is not a Contributor or Recipient.
             No third-party beneficiary rights are created under this Agreement. </p>
             <p>Exhibit A - Form of Secondary Licenses Notice </p>
-            <p>"This Source Code may also be made available under the following Secondary Licenses when the conditions for such availability set forth 
+            <p>"This Source Code may also be made available under the following Secondary Licenses when the conditions for such availability set forth
             in the Eclipse Public License, v. 2.0 are satisfied: {name license(s), version(s), and exceptions or additional permissions here}." </p>
             <p>Simply including a copy of this Agreement, including this Exhibit A is not sufficient to license the Source Code under Secondary Licenses. </p>
-            <p>If it is not possible or desirable to put the notice in a particular file, then You may include the notice in a location (such as a LICENSE 
+            <p>If it is not possible or desirable to put the notice in a particular file, then You may include the notice in a location (such as a LICENSE
             file in a relevant directory) where a recipient would be likely to look for such a notice. You may add additional accurate notices of copyright ownership.</p>`
-          
-            
+
     },
     {
         name:"Open LDAP",
         description:`<p>The OpenLDAP Public License</p>
             <p> Version 2.8, 17 August 2003</p>
-						<p>Copyright (C) 2023 Cloudogu GmbH </p>
-            <p>Redistribution and use of this software and associated documentation ("Software"), 
+			<p>Copyright (C) 2023 Cloudogu GmbH </p>
+            <p>Redistribution and use of this software and associated documentation ("Software"),
             with or without modification, are permitted provided that the following conditions are met: </p>
             <p>1. Redistributions in source form must retain copyright statement and notices, </p>
-            <p>2. Redistributions in binary form must reproduce applicable copyright statements and notices, 
-            this list of conditions, and the following disclaimer in the documentation and/or other 
+            <p>2. Redistributions in binary form must reproduce applicable copyright statements and notices,
+            this list of conditions, and the following disclaimer in the documentation and/or other
             materials provided  with the distribution, and</p>
             <p>3. Redistributions must contain a verbatim copy of this document. </p>
-            <p>The OpenLDAP Foundation may revise this license from time to time. Each revision is 
-            distinguished by a version number.  You may use this Software under terms of this license 
+            <p>The OpenLDAP Foundation may revise this license from time to time. Each revision is
+            distinguished by a version number.  You may use this Software under terms of this license
             revision or under the terms of any subsequent revision of the license.</p>
-            <p>THIS SOFTWARE IS PROVIDED BY THE OPENLDAP FOUNDATION AND ITS CONTRIBUTORS ``AS IS'' AND 
-            ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES 
-            OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL 
-            THE OPENLDAP FOUNDATION, ITS CONTRIBUTORS, OR THE AUTHOR(S) OR OWNER(S) OF THE SOFTWARE BE 
-            LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES 
-            (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, 
-            DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, 
-            WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING 
+            <p>THIS SOFTWARE IS PROVIDED BY THE OPENLDAP FOUNDATION AND ITS CONTRIBUTORS ''AS IS'' AND
+            ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+            OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL
+            THE OPENLDAP FOUNDATION, ITS CONTRIBUTORS, OR THE AUTHOR(S) OR OWNER(S) OF THE SOFTWARE BE
+            LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+            (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+            DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+            WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
             IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</p>
-            <p>The names of the authors and copyright holders must not be used inadvertising or otherwise to 
-            promote the sale, use or other dealing in this Software without specific, written prior permission. 
+            <p>The names of the authors and copyright holders must not be used inadvertising or otherwise to
+            promote the sale, use or other dealing in this Software without specific, written prior permission.
             Title to copyright in this Software shall at all times remain with copyright holders. </p>
             <p>OpenLDAP is a registered trademark of the OpenLDAP Foundation.</p>`
-           
+
     },
     {
         name:"SwaggerUI",
@@ -1251,7 +1249,7 @@ export const LICENSES: License[] = [
               and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by,
               or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
             </p>`
-           
+
     },
     {
         name:"Easy Redmine 10",
@@ -1260,7 +1258,7 @@ export const LICENSES: License[] = [
               Version 2, June 1991
             </p>
 
-            <pre>Copyright (C) 1989, 1991 Free Software Foundation, Inc.  
+            <pre>Copyright (C) 1989, 1991 Free Software Foundation, Inc.
                         51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA
 
                         Everyone is permitted to copy and distribute verbatim copies
@@ -1546,13 +1544,13 @@ export const LICENSES: License[] = [
               OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS),
               EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
             </p>`
-           
+
     },
     {
         name: "Gotenberg",
         description: `<p>Copyright (C) 2023 Julien Neuhardt</p>
         <p>Copyright (C) 2023 Cloudogu GmbH</p>
-        
+
 
             <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
               documentation files (the "Software"), to deal in the Software without restriction, including without limitation
@@ -1619,28 +1617,28 @@ export const LICENSES: License[] = [
     {
         name: "Elasticsearch",
         description: `<p>Copyright (C) 2023 Cloudogu GmbH</p>
-        
+
             <p>Elastic License 2.0 (ELv2)</p>
             <p>Elastic License</p>
             <p>Acceptance</p>
             <p>By using the software, you agree to all of the terms and conditions below.</p>
             <p>Copyright License</p>
-            <p>The licensor grants you a non-exclusive, royalty-free, worldwide, non-sublicensable, 
-            non-transferable license to use, copy, distribute, make available, and prepare derivative 
+            <p>The licensor grants you a non-exclusive, royalty-free, worldwide, non-sublicensable,
+            non-transferable license to use, copy, distribute, make available, and prepare derivative
             works of the software, in each case subject to the limitations and conditions below.</p>
             <p>Limitations</p>
-            <p>You may not provide the software to third parties as a hosted or managed service, where 
+            <p>You may not provide the software to third parties as a hosted or managed service, where
             the service provides users with access to any substantial set of the features or functionality of the software.</p>
-            <p>You may not move, change, disable, or circumvent the license key functionality in the software, 
+            <p>You may not move, change, disable, or circumvent the license key functionality in the software,
             and you may not remove or obscure any functionality in the software that is protected by the license key.</p>
-            <p>You may not alter, remove, or obscure any licensing, copyright, or other notices of the licensor in the software. 
+            <p>You may not alter, remove, or obscure any licensing, copyright, or other notices of the licensor in the software.
             Any use of the licensor’s trademarks is subject to applicable law.</p>
             <p>Patents</p>
-            <p>The licensor grants you a license, under any patent claims the licensor can license, or becomes able to license, 
-            to make, have made, use, sell, offer for sale, import and have imported the software, in each case subject to the limitations 
-            and conditions in this license. This license does not cover any patent claims that you cause to be infringed by modifications 
-            or additions to the software. If you or your company make any written claim that the software infringes or contributes to 
-            infringement of any patent, your patent license for the software granted under these terms ends immediately. If your company 
+            <p>The licensor grants you a license, under any patent claims the licensor can license, or becomes able to license,
+            to make, have made, use, sell, offer for sale, import and have imported the software, in each case subject to the limitations
+            and conditions in this license. This license does not cover any patent claims that you cause to be infringed by modifications
+            or additions to the software. If you or your company make any written claim that the software infringes or contributes to
+            infringement of any patent, your patent license for the software granted under these terms ends immediately. If your company
             makes such a claim, your patent license ends immediately for work on behalf of your company.</p>
             <p>Notices</p>
             <p>You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms.</p>
@@ -1648,18 +1646,18 @@ export const LICENSES: License[] = [
             <p>No Other Rights</p>
             <p>These terms do not imply any licenses other than those expressly granted in these terms.</p>
             <p>Termination</p>
-            <p>If you use the software in violation of these terms, such use is not licensed, and your licenses will automatically terminate. 
-            If the licensor provides you with a notice of your violation, and you cease all violation of this license no later than 30 days 
-            after you receive that notice, your licenses will be reinstated retroactively. However, if you violate these terms after such 
+            <p>If you use the software in violation of these terms, such use is not licensed, and your licenses will automatically terminate.
+            If the licensor provides you with a notice of your violation, and you cease all violation of this license no later than 30 days
+            after you receive that notice, your licenses will be reinstated retroactively. However, if you violate these terms after such
             reinstatement, any additional violation of these terms will cause your licenses to terminate automatically and permanently.</p>
             <p>No Liability</p>
-            <p>As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be 
+            <p>As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be
             liable to you for any damages arising out of these terms or the use or nature of the software, under any kind of legal claim.</p>
             <p>Definitions</p>
             <p>The licensor is the entity offering these terms, and the software is the software the licensor makes available under these terms, including any portion of it.
             “you” refers to the individual or entity agreeing to these terms.
-            your company is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under 
-            the control of, or are under common control with that organization. control means ownership of substantially all the assets of an entity, or the power to 
+            your company is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under
+            the control of, or are under common control with that organization. control means ownership of substantially all the assets of an entity, or the power to
             direct its management and policies by vote, contract, or otherwise. Control can be direct or indirect.
             “your licenses” are all the licenses granted to you for the software under these terms.
             “use” means anything you do with the software requiring one of your licenses.
@@ -1718,7 +1716,7 @@ export const LICENSES: License[] = [
 							Contributors may not remove or alter any copyright notices contained within the Program.
 							Each Contributor must identify itself as the originator of its Contribution, if any, in a manner that reasonably allows subsequent Recipients to identify the originator of the Contribution. </p>
 							<p>4. COMMERCIAL DISTRIBUTION</p>
-							<p>Commercial distributors of software may accept certain responsibilities with respect to end users, business partners and the like. While this license is intended to facilitate the commercial 
+							<p>Commercial distributors of software may accept certain responsibilities with respect to end users, business partners and the like. While this license is intended to facilitate the commercial
 							use of the Program, the Contributor who includes the Program in a commercial product offering should do so in a manner which does not create potential liability for other Contributors. Therefore,
 							if a Contributor includes the Program in a commercial product offering, such Contributor ("Commercial Contributor") hereby agrees to defend and indemnify every other Contributor
 							("Indemnified Contributor") against any losses, damages and costs (collectively "Losses") arising from claims, lawsuits and other legal actions brought by a third party against the
@@ -1764,7 +1762,7 @@ export const LICENSES: License[] = [
 							whether expressly, by implication, estoppel or otherwise. All rights in the Program not expressly granted under this Agreement are reserved.</p>
 							<p>This Agreement is governed by the laws of the State of New York and the intellectual property laws of the United States of America.
 							No party to this Agreement will bring a legal action under this Agreement more than one year after the cause of action arose.
-							Each party waives its rights to a jury trial in any resulting litigation.</p>`   
+							Each party waives its rights to a jury trial in any resulting litigation.</p>`
 
     },
     {
@@ -2215,7 +2213,7 @@ export const LICENSES: License[] = [
         description:`<p>GNU GENERAL PUBLIC LICENSE</p>
               <p> Version 3, 29 June </p>
               <p> Copyright (C) 2023 Cloudogu GmbH </p>
-							<p>This program is free software: you can redistribute it and/or modify  it under the terms of the GNU General Public License 
+							<p>This program is free software: you can redistribute it and/or modify  it under the terms of the GNU General Public License
 							as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.</p>
 							<p>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty
 							of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.</p>
@@ -2224,7 +2222,7 @@ export const LICENSES: License[] = [
               <p>Version 3, 29 June 2007 Copyright © 2007 Free Software Foundation, Inc.  <a href="http://fsf.org/" target="_blank">FSF-Website</a></p>
               <p>51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA</p>
               <p>Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.</p>
-              
+
               <p>Preamble</p>
               <p>The GNU General Public License is a free, copyleft license for software and other kinds of works.</p>
               <p>The licenses for most software and other practical works are designed to take away your freedom to share and change the works.
@@ -2252,7 +2250,7 @@ export const LICENSES: License[] = [
 							of software on general-purpose computers, but in those that do, we wish to avoid the special danger that patents applied to a free program
 							could make it effectively proprietary. To prevent this, the GPL assures that patents cannot be used to render the program non-free.</p>
               <p>The precise terms and conditions for copying, distribution and modification follow.</p>
-                
+
               <p>TERMS AND CONDITIONS</p>
               <p>0. Definitions.</p>
               <p>“This License” refers to version 3 of the GNU General Public License.</p>
@@ -2271,7 +2269,7 @@ export const LICENSES: License[] = [
               that (1) displays an appropriate copyright notice, and (2) tells the user that there is no warranty for the work (except to the extent that
               warranties are provided), that licensees may convey the work under this License, and how to view a copy of this License. If the interface
               presents a list of user commands or options, such as a menu, a prominent item in the list meets this criterion.</p>
-                
+
               <p>1. Source Code.</p>
               <p>The “source code” for a work means the preferred form of the work for making modifications to it. “Object code” means any non-source form of a work.</p>
               <p>A “Standard Interface” means an interface that either is an official standard defined by a recognized standards body, or, in the case of interfaces
@@ -2289,7 +2287,7 @@ export const LICENSES: License[] = [
               such as by intimate data communication or control flow between those subprograms and other parts of the work.</p>
               <p>The Corresponding Source need not include anything that users can regenerate automatically from other parts of the Corresponding Source.
               The Corresponding Source for a work in source code form is that same work.</p>
-                
+
               <p>2. Basic Permissions.</p>
               <p>All rights granted under this License are granted for the term of copyright on the Program, and are irrevocable provided the stated conditions are met.
               This License explicitly affirms your unlimited permission to run the unmodified Program. The output from running a covered work is covered
@@ -2301,21 +2299,21 @@ export const LICENSES: License[] = [
               you do not control copyright. Those thus making or running the covered works for you must do so exclusively on your behalf, under
               your direction and control, on terms that prohibit them from making any copies of your copyrighted material outside their relationship with you.</p>
               <p>Conveying under any other circumstances is permitted solely under the conditions stated below. Sublicensing is not allowed; section 10 makes it unnecessary.</p>
-                
+
               <p>3. Protecting Users' Legal Rights From Anti-Circumvention Law.</p>
               <p>No covered work shall be deemed part of an effective technological measure under any applicable law fulfilling obligations under article
               11 of the WIPO copyright treaty adopted on 20 December 1996, or similar laws prohibiting or restricting circumvention of such measures.</p>
               <p>When you convey a covered work, you waive any legal power to forbid circumvention of technological measures to the extent such circumvention
               is effected by exercising rights under this License with respect to the covered work, and you disclaim any intention to limit operation or
               modification of the work as a means of enforcing, against the work's users, your or third parties' legal rights to forbid circumvention of technological measures.</p>
-                
+
               <p>4. Conveying Verbatim Copies.</p>
               <p>You may convey verbatim copies of the Program's source code as you receive it, in any medium, provided that you conspicuously and
               appropriately publish on each copy an appropriate copyright notice; keep intact all notices stating that this License and
               any non-permissive terms added in accord with section 7 apply to the code; keep intact all notices of the absence
               of any warranty; and give all recipients a copy of this License along with the Program.</p>
               <p>You may charge any price or no price for each copy that you convey, and you may offer support or warranty protection for a fee.</p>
-                
+
               <p>5. Conveying Modified Source Versions.
               <p>You may convey a work based on the Program, or the modifications to produce it from the Program, in the form of source code
               under the terms of section 4, provided that you also meet all of these conditions:</p>
@@ -2333,7 +2331,7 @@ export const LICENSES: License[] = [
               distribution medium, is called an “aggregate” if the compilation and its resulting copyright are not used to
               limit the access or legal rights of the compilation's users beyond what the individual works permit.
               Inclusion of a covered work in an aggregate does not cause this License to apply to the other parts of the aggregate.</p>
-              
+
               <p>6. Conveying Non-Source Forms.</p>
               <p>You may convey a covered work in object code form under the terms of sections 4 and 5, provided that you also convey
               the machine-readable Corresponding Source under the terms of this License, in one of these ways:</p>
@@ -2382,7 +2380,7 @@ export const LICENSES: License[] = [
               <p>Corresponding Source conveyed, and Installation Information provided, in accord with this section must be in a format
               that is publicly documented (and with an implementation available to the public in source code form), and must require no
               special password or key for unpacking, reading or copying.</p>
-                
+
               <p>7. Additional Terms.</p>
               <p>“Additional permissions” are terms that supplement the terms of this License by making exceptions from one or more of its conditions.
               Additional permissions that are applicable to the entire Program shall be treated as though they were included in this License,
@@ -2415,7 +2413,7 @@ export const LICENSES: License[] = [
               a statement of the additional terms that apply to those files, or a notice indicating where to find the applicable terms.</p>
               <p>Additional terms, permissive or non-permissive, may be stated in the form of a separately written license,
               or stated as exceptions; the above requirements apply either way.</p>
-                
+
               <p>8. Termination.</p>
               <p>You may not propagate or modify a covered work except as expressly provided under this License.
               Any attempt otherwise to propagate or modify it is void, and will automatically terminate your
@@ -2428,7 +2426,7 @@ export const LICENSES: License[] = [
               the copyright holder notifies you of the violation by some reasonable means, this is the first time
               you have received notice of violation of this License (for any work) from that copyright holder,
               and you cure the violation prior to 30 days after your receipt of the notice.</p>
-              <p>Termination of your rights under this section does not terminate the licenses of parties who 
+              <p>Termination of your rights under this section does not terminate the licenses of parties who
               have received copies or rights from you under this License. If your rights have been terminated
               and not permanently reinstated, you do not qualify to receive new licenses for the same material under section 10.</p>
 
@@ -2439,7 +2437,7 @@ export const LICENSES: License[] = [
               you permission to propagate or modify any covered work. These actions infringe copyright if you do
               not accept this License. Therefore, by modifying or propagating a covered work, you indicate your
               acceptance of this License to do so.</p>
-                
+
               <p>10. Automatic Licensing of Downstream Recipients.</p>
               <p>Each time you convey a covered work, the recipient automatically receives a license from the
               original licensors, to run, modify and propagate that work, subject to this License.
@@ -2454,7 +2452,7 @@ export const LICENSES: License[] = [
               For example, you may not impose a license fee, royalty, or other charge for exercise of rights
               granted under this License, and you may not initiate litigation (including a cross-claim or counterclaim in a lawsuit)
               alleging that any patent claim is infringed by making, using, selling, offering for sale, or importing the Program or any portion of it.</p>
-              
+
               <p>11. Patents.</p>
               <p>A “contributor” is a copyright holder who authorizes use under this License of the Program or a work on
               which the Program is based. The work thus licensed is called the contributor's “contributor version”.</p>
@@ -2498,20 +2496,20 @@ export const LICENSES: License[] = [
               contain the covered work, unless you entered into that arrangement, or that patent license was granted, prior to 28 March 2007.</p>
               <p>Nothing in this License shall be construed as excluding or limiting any implied
               license or other defenses to infringement that may otherwise be available to you under applicable patent law.</p>
-                
+
               <p>12. No Surrender of Others' Freedom.</p>
               <p>If conditions are imposed on you (whether by court order, agreement or otherwise) that contradict the conditions of this License,
               they do not excuse you from the conditions of this License. If you cannot convey a covered work so as to satisfy simultaneously your
               obligations under this License and any other pertinent obligations, then as a consequence you may not convey it at all. For example,
               if you agree to terms that obligate you to collect a royalty for further conveying from those to whom you convey the Program,
               the only way you could satisfy both those terms and this License would be to refrain entirely from conveying the Program.</p>
-              
+
               <p>13. Use with the GNU Affero General Public License.</p>
               Notwithstanding any other provision of this License, you have permission to link or combine any covered work with a work licensed
               under version 3 of the GNU Affero General Public License into a single combined work, and to convey the resulting work. The terms of
               this License will continue to apply to the part which is the covered work, but the special requirements of the GNU Affero General Public License,
               section 13, concerning interaction through a network will apply to the combination as such.</p>
-              
+
               <p>14. Revised Versions of this License.</p>
               <p>The Free Software Foundation may publish revised and/or new versions of the GNU General Public License from time to time.
               Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.</p>
@@ -2523,21 +2521,21 @@ export const LICENSES: License[] = [
               that proxy's public statement of acceptance of a version permanently authorizes you to choose that version for the Program.</p>
               <p>Later license versions may give you additional or different permissions. However, no additional obligations are imposed on
               any author or copyright holder as a result of your choosing to follow a later version.</p>
-              
+
               <p>15. Disclaimer of Warranty.</p>
               <p>THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE
               COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
               INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK
               AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL
               NECESSARY SERVICING, REPAIR OR CORRECTION.</p>
-              
+
               <p>16. Limitation of Liability.</p>
               <p>IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY
               WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL,
               INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO
               LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO
               OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</p>
-              
+
               <p>17. Interpretation of Sections 15 and 16.</p>
               <p>If the disclaimer of warranty and limitation of liability provided above cannot be given local legal effect according to their terms,
               reviewing courts shall apply local law that most closely approximates an absolute waiver of all civil liability in connection with the Program,
@@ -2577,3 +2575,4 @@ export const LICENSES: License[] = [
             </div>`
     }
 ]
+>>>>>>> d4787d4da8a2dd0a114e8b79274535f4f69e0d08
