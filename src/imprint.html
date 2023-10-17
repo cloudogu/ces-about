@@ -1,8 +1,46 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Imprint</title>
+  <link rel="stylesheet" href="assets/css/ces.css">
+  <link rel="stylesheet" href="styles.css">
+  <script src="assets/js/app.js"></script>
+</head>
+<script>
+  history.pushState({}, "", "/imprint")
+</script>
+<body><
 <br>
 <br>
 <br>
+<div class="bs-component">
+  <div class="navbar navbar-default navbar-fixed-top ng-scope">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button class="navbar-toggle collapsed" type="button" data-bs-toggle="collapse" aria-controls="collapseExample">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand">
+          <img class="img-responsive" alt="Cloudogu" src="assets/images/logo/blib-white-30px.png">
+        </a>
+      </div>
+      <div class="collapse navbar-collapse" id="collapseExample" (click)="setCollapsed(!isCollapsed)">
+        <ul class="nav navbar-nav navbar-left">
+          <li><a href="/index.html" class="ng-binding">About Cloudogu</a></li>
+          <li><a href="/licenses.html" class="ng-binding">Licenses</a></li>
+          <li><a href="/privacyPolicy.html" class="ng-binding">Privacy Policy</a></li>
+          <li><a href="/termsAndConditions.html" class="ng-binding">Terms and Conditions</a></li>
+          <li><a href="/imprint.html" class="ng-binding">Imprint</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
 <div class="bs-component text-center">
-  <img alt="" src="./assets/logo/blib-blue-160px.png">
+  <img alt="" src="assets/images/logo/blib-blue-160px.png">
   <br>
   <br>
   <h1 class="heading text-muted">Imprint</h1>
@@ -69,3 +107,5 @@
     </div>
   </div>
 </div>
+</body>
+</html>

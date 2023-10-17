@@ -1,58 +1,74 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="utf-8">
   <title>About Cloudogu</title>
-  <base href="/"> <!-- /info/-->
-
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- favicons -->
-  <link rel="icon" type="image/png" href="./assets/favicon/favicon-16px.png" sizes="16x16" />
-
-
-
-  <style>
-    .load {
-      font-family: 'Droid Sans', Raleway, 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
-      color: #23A3DD;
-    }
-
-    .load-heading {
-      font-size: 3rem;
-      line-height: 3rem;
-      position: relative;
-    }
-
-    .load-description {
-      font-size: 24px;
-      position: relative;
-    }
-
-  </style>
+  <link rel="stylesheet" href="assets/css/ces.css">
+  <link rel="stylesheet" href="styles.css">
+  <script src="assets/js/app.js"></script>
 </head>
-
 <body>
-  <app-root>
+<div class="bs-component">
+  <div class="navbar navbar-default navbar-fixed-top ng-scope">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button class="navbar-toggle collapsed" type="button" data-bs-toggle="collapse" aria-controls="collapseExample">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand">
+          <img class="img-responsive" alt="Cloudogu" src="assets/images/logo/blib-white-30px.png">
+        </a>
+      </div>
+      <div class="collapse navbar-collapse" id="collapseExample" (click)="setCollapsed(!isCollapsed)">
+        <ul class="nav navbar-nav navbar-left">
+          <li><a href="/index.html" class="ng-binding">About Cloudogu</a></li>
+          <li><a href="/licenses.html" class="ng-binding">Licenses</a></li>
+          <li><a href="/privacyPolicy.html" class="ng-binding">Privacy Policy</a></li>
+          <li><a href="/termsAndConditions.html" class="ng-binding">Terms and Conditions</a></li>
+          <li><a href="/imprint.html" class="ng-binding">Imprint</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="bs-component text-center">
 
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <center class="load">
-      <p class="load-heading">About Cloudogu</p>
-      <p class="load-description">Page is loading - Please wait!</p>
-      _____________________________
-    </center>
 
-  </app-root>
+  <br>
+  <br>
+  <br>
+  <img alt="" src="assets/images/logo/blib-blue-160px.png">
+  <br>
+  <br>
+  <h1 class="heading text-muted">About Cloudogu</h1>
+
+</div>
+<br>
+<br>
+<br>
+
+<div class="bs-docs-section container">
+    <div class="row">
+        <div class="col-md-offset-2 col-md-8" align="justify">
+            <p> At Cloudogu we are passionate software craftsmen. We are driven by quality, efficiency and fun. We build
+                our software by utilizing TDD, Clean Code, CI/CD and containerization in an agile and collaborative environment.
+                We believe in the power and freedom of the open source community and pledge to make our contribution.
+                We encourage businesses to use open source development tools and provide enterprise level security, operations
+                and support for them.
+            </p>
+            <p>Our mission is to provide a best of breed environment – both for the community and the enterprise.</p>
+            <p>This is why we created the Cloudogu EcoSystem – an open platform that lets the community thrive and businesses grow.</p>
+            <br>
+            <p style="text-align: center;"><a class="button" target="_blank" title="Cloudogu website" href="https://cloudogu.com/en/">Visit Cloudogu website</a></p>
+        </div>
+    </div>
+</div>
+<br>
+<div class="bs-component text-center">
+  <h3 class="text-muted">The most amazing development platform ever built!</h3>
+</div>
 </body>
-
 </html>
