@@ -43,22 +43,22 @@ a {
 .accordion-item {
   margin-top: 10px;
   background-color: #fff;
-  border: 1px solid #dddddd;
   border-radius: 4px;
 }
 
 .accordion-header {
+  border: 1px solid #dddddd;
   cursor: pointer;
 }
 
 .accordion-content {
   display: none;
   transition: max-height;
+  border: 0;
   overflow: hidden;
 }
 
 .accordion-content.open {
-  max-height: 500px;
   display: block;
 }
 
