@@ -7,7 +7,6 @@
   },
   "private": true,
   "devDependencies": {
-    "ces-theme": "https://github.com/cloudogu/ces-theme.git",
-    "protractor": "^7.0.0"
+    "ces-theme": "https://github.com/cloudogu/ces-theme.git"
   }
 }
