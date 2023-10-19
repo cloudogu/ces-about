@@ -48,6 +48,7 @@ a {
 
 .accordion-header {
   border: 1px solid #dddddd;
+  border-bottom: 2px solid transparent;
   cursor: pointer;
 }
 
