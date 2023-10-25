@@ -7,6 +7,6 @@
   },
   "private": true,
   "devDependencies": {
-    "ces-theme": "https://github.com/cloudogu/ces-theme.git"
+    "ces-theme": "https://github.com/cloudogu/ces-theme.git@0.7.2"
   }
 }
