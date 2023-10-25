@@ -2,11 +2,12 @@
   "name": "ces-about",
   "version": "0.0.0",
   "license": "MIT",
+  "repository": "https://github.com/cloudogu/ces-about",
   "scripts": {
     "postinstall": "./postinstall.sh"
   },
   "private": true,
   "devDependencies": {
-    "ces-theme": "https://github.com/cloudogu/ces-theme"
+    "ces-theme": "https://github.com/cloudogu/ces-theme#v0.7.2"
   }
 }
