@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Added
 - Release docs (see [docs](docs/development/release_en.md))
+- yarn added for building the ces-about project
 
 ### Removed
 - Most of the images in the release package which were not required by the web page
