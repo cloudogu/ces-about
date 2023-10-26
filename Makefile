@@ -9,7 +9,10 @@ package:
 	mkdir -p ${target_dir}/${page_root}
 	cp -r src/* ${target_dir}/${page_root}
 	cp -r node_modules/ces-theme/dist/css ${target_dir}/${page_root}/assets/
-	cp -r node_modules/ces-theme/dist/images ${target_dir}/${page_root}/assets/
+	mkdir -p ${target_dir}/${page_root}/assets/images
+	cp -r node_modules/ces-theme/dist/images/logo/blib-blue-160px.png \
+	node_modules/ces-theme/dist/images/logo/blib-white-30px.png \
+	node_modules/ces-theme/dist/images/favicon/favicon.ico ${target_dir}/${page_root}/assets/images/
 	tar -czvf ${target_dir}/ces-about_v${VERSION}.tar.gz --directory ${target_dir} ${page_root}
 	sha256sum ${target_dir}/ces-about_v${VERSION}.tar.gz | head -c 64 > ${target_dir}/ces-about_v${VERSION}.tar.gz.sha256
 
