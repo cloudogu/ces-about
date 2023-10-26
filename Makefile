@@ -20,9 +20,17 @@ package:
 dev-server: package
 	docker stop ces-about || true
 	docker build -t ces-about:${VERSION} .
-	docker run --rm -d -p 4200:80 --name ces-about -v "./${target_dir}":/usr/share/nginx/html ces-about:${VERSION}
+	docker run -d -p 4200:80 --name ces-about \
+		-v "./${target_dir}":/usr/share/nginx/html \
+		-v "./ces-about-routes.conf":/etc/nginx/include.d/ces-about-routes.conf \
+		-v "./default.conf":/etc/nginx/conf.d/default.conf \
+		ces-about:${VERSION}
 	@echo "open http://localhost:4200/info in your browser"
 
 .PHONY: clean
 clean:
 	rm -rf ${target_dir}
+	docker stop ces-about
+	docker rm ces-about
+
+#
