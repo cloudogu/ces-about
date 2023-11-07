@@ -24,9 +24,9 @@ async function setupNodeEvents(
 
 export default defineConfig({
     e2e: {
-        baseUrl: 'http://localhost:4200/index.html',
+        baseUrl: 'http://localhost:4200/info/index.html',
         env: {
-          baseUrl: 'http://localhost:4200'
+          baseUrl: 'http://localhost:4200/info'
         },
         videoCompression: false,
         experimentalRunAllSpecs: true,
