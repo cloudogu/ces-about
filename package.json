@@ -1,7 +1,7 @@
 {
   "name": "ces-about",
   "version": "0.5.0",
-  "license": "MIT",
+  "license": "AGPL-3.0-only",
   "repository": "https://github.com/cloudogu/ces-about",
   "scripts": {
     "postinstall": "./postinstall.sh"
