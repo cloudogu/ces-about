@@ -1,4 +1,4 @@
-VERSION=0.5.0
+VERSION=0.6.0
 target_dir=target
 page_root=info
 
