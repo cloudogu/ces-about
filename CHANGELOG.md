@@ -5,10 +5,20 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+## [0.6.0]
 ### Changed
-- deleted wrong information of imprint
-- seperated open source 3rd party licenses and dogu licenses
-- fixed licenses and addes missing licenses
+- Relicense to AGPL-3.0-only
+
+## [v0.5.0] - 2024-07-01
+### Added
+- Add "written offer"-page
+
+### Changed
+- Chang address to new cloudogu-address
+- Delete wrong information of imprint
+- Separate open source 3rd party licenses and dogu licenses
+- Fix licenses and add missing licenses
 
 ## [v0.4.0] - 2023-11-07
 ### Added
