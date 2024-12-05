@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v0.7.0] - 2024-12-05
+### Changed
+- Updated licenses for own dogus, third-party-tools, and tool wrapping functionality
+
 ## [v0.6.0] - 2024-09-24
 ### Changed
 - Relicense to AGPL-3.0-only
