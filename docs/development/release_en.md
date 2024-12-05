@@ -4,7 +4,10 @@
    - Update versions in Changelog, Makefile and package.json
 - Create release package
   - checkout the previously created git tag
-  - Execute the make target `package`
+  - Execute 
+    - `yarn install`
+    - `yarn postinstall`
+    - `make package`
 - On Github, create a release from the tag
   - Add the information from changelog
   - Append the previously created packages to the release
